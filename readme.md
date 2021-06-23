@@ -1,4 +1,4 @@
-# Viajes en el pasado con git y githuh
+# Viajes en el pasado con git y github
 
 si quieres volver atras:
 
