@@ -17,3 +17,10 @@ y para que se actualice en github
 ```
 git push origin HEAD --force
 ```
+
+PAra Revertir merges
+
+```
+git revert -m 1 <SHA-code>
+git push origin <branch>
+```
